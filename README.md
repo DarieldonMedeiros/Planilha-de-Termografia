@@ -1,4 +1,4 @@
-# F 157_Relatório Fotográfico Termografia 12.1.xlsm
+# Planilha para Automatizar Relatórios Fotográficos de Termografia
 
 ## Descrição
 
